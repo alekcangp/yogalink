@@ -1,7 +1,7 @@
 
 # 🧘 Yoga Pose Tracker with Etherlink Integration
 
-This Python application uses real-time video and AI inference to detect yoga poses, track pose streaks, and store top performance data on the **Etherlink (Tezos) blockchain**. A leaderboard of all users' best pose streaks can be displayed and verified on-chain.
+This Python application uses real-time video and AI inference to detect yoga poses, track pose streaks, and store top performance data on the **Etherlink (Tezos) blockchain**. A leaderboard of all users best pose streaks can be displayed and verified on-chain.
 
 ## 📦 Features
 
